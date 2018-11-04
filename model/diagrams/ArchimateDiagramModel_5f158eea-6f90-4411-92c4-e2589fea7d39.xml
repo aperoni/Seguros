@@ -15,4 +15,40 @@
         xsi:type="archimate:ApplicationCollaboration"
         href="ApplicationCollaboration_24f31a8c-dac7-467a-833a-11d3ddf9b727.xml#24f31a8c-dac7-467a-833a-11d3ddf9b727"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="80f262af-594e-4a6f-95f9-3b3f080fbef9">
+    <bounds
+        x="678"
+        y="176"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessInterface"
+        href="BusinessInterface_346a3907-236e-4222-a58f-1bbb5a6389e2.xml#346a3907-236e-4222-a58f-1bbb5a6389e2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="d8c7d6c7-733c-4913-a780-abcb91fa01a0">
+    <bounds
+        x="420"
+        y="48"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_8c3d62df-2e0f-436b-bd85-14a4eb56cf54.xml#8c3d62df-2e0f-436b-bd85-14a4eb56cf54"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3151c15c-49d4-4853-8d7e-e939de9b37aa">
+    <bounds
+        x="559"
+        y="212"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Contract"
+        href="Contract_d98b53bf-904e-48d5-8da2-b5e77e0faeed.xml#d98b53bf-904e-48d5-8da2-b5e77e0faeed"/>
+  </children>
 </archimate:ArchimateDiagramModel>
