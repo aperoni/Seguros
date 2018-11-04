@@ -15,4 +15,16 @@
         xsi:type="archimate:TechnologyEvent"
         href="TechnologyEvent_94b38c39-3093-4305-b03d-8ae55ea13202.xml#94b38c39-3093-4305-b03d-8ae55ea13202"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3386e985-18de-45fd-a41c-26ceb6280cdf">
+    <bounds
+        x="674"
+        y="84"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Device"
+        href="Device_cbd804b8-694e-4839-9ff6-378cc2a9cb28.xml#cbd804b8-694e-4839-9ff6-378cc2a9cb28"/>
+  </children>
 </archimate:ArchimateDiagramModel>
