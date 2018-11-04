@@ -5,14 +5,14 @@
     id="5f158eea-6f90-4411-92c4-e2589fea7d39">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="578a9002-4802-45e1-8870-cf95cf332503">
+      id="853dbf70-fda0-4ec3-bd29-9dc51b6f0103">
     <bounds
-        x="441"
-        y="115"
+        x="565"
+        y="102"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:TechnologyEvent"
-        href="TechnologyEvent_94b38c39-3093-4305-b03d-8ae55ea13202.xml#94b38c39-3093-4305-b03d-8ae55ea13202"/>
+        xsi:type="archimate:ApplicationCollaboration"
+        href="ApplicationCollaboration_24f31a8c-dac7-467a-833a-11d3ddf9b727.xml#24f31a8c-dac7-467a-833a-11d3ddf9b727"/>
   </children>
 </archimate:ArchimateDiagramModel>
